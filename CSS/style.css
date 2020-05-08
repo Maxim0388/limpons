@@ -1091,8 +1091,8 @@ h1 {
 .footer {
     background-color: #192b59;
     display: flex;
-    justify-content: space-between;
-    padding: 0 400px;
+    justify-content: space-around;
+    padding: 0 auto;
 }
 
 .social {
@@ -1159,6 +1159,7 @@ h1 {
     color: #1085e4;
     background-color: transparent;
 }
+
 
 /* PAGE */
 
